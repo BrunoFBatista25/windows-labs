@@ -4,7 +4,7 @@ O que são Arquivos .Bat?
 Arquivos .Bat, são conjuntos de comandos (CLI) que mandam no computador.
 
 
-````
+````bat
 @echo off
 :menu
 
@@ -74,8 +74,6 @@ echo Relatorio criado!
 pause
 goto menu
 ````
-
-
 --------------------------------------------------------------------------------------------------------------------------
 
 Mean:
